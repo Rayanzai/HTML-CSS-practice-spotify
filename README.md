@@ -1,2 +1,2 @@
-# Spotify clone HTML CSS practice
+# HTML/CSS practice
  Spotify site clone. Practice HTML and CSS. 
